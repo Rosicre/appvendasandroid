@@ -1,2 +1,1 @@
-# appvendasandroid
-Aplicativo de Vendas com Kivy
+# Aplicativo de Vendas usando a Biblioteca do Kivy. Banco de Dados que usei aqui foi o FireBase. Usei o VirtualBox para Criar um Ambiente Virtual no Linux. O Sistema Operacional ( Ubuntu ). Usei o Buildozer para criar os Pacotes do App no Android.
